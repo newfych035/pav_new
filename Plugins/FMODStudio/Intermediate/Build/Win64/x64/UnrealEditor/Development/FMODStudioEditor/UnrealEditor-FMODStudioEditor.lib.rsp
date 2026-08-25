@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMODStudioEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:/RESTORE/pav23/Intermediate/Build/Win64/x64/Pavlov23Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"F:/RESTORE/pav23/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealEditor/Development/FMODStudioEditor/Module.FMODStudioEditor.cpp.obj"
+"F:/RESTORE/pav23/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealEditor/Development/FMODStudioEditor/Default.rc2.res"
+/OUT:"F:/RESTORE/pav23/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealEditor/Development/FMODStudioEditor/UnrealEditor-FMODStudioEditor.lib"
