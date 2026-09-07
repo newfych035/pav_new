@@ -26,6 +26,10 @@
 		{
 			"Name": "FMODStudioOpenXR",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
